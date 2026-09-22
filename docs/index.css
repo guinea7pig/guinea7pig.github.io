@@ -1,0 +1,16 @@
+body {
+backround-color: white;
+}
+
+footer {
+  backround-color: #f1f1f1;
+  text-align: center;
+  padding: 8px;
+}
+
+header {
+background-color: #f1f1f1;
+text-align: center;
+padding:10px;
+} 
+
