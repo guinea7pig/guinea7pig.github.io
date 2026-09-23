@@ -1,18 +1,18 @@
 body {
 color:#00ff00;
-backround-color:#171717;
+background-color:#171717;
 
 text-align: center;
 }
 
 footer {
-  backround-color: Yellow;
+  backround-color: 171717;
   text-align: center;
   padding: 8px;
 }
 
 header {
-background-color: #000000;
+background-color: #171717;
 text-align: center;
 padding:10px;
 font-size: 40px;
@@ -23,7 +23,7 @@ list-style-types: none;
 justify-content: center;
 display: flex;
 overflow: hidden;
-background-color: antiquewhite;
+background-color: #333333;
 }
 
 ul li a{
