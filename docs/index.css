@@ -19,10 +19,22 @@ font-size: 40px;
 } 
 
 ul {
+list-style-types: none;
+justify-content: center;
+display: flex;
+}
 
+ul li a{
+display: block;
+color: Black;
+text-aling: center;
 }
 
 ul li {
+float: left;
+}
 
+ul li a:hover
+{
 }
 
