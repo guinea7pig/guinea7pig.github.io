@@ -1,6 +1,6 @@
 body {
 color:#00ff00;
-background-color:#Black;
+background-color: Black;
 
 text-align: center;
 }
@@ -28,7 +28,7 @@ background-color: #333333;
 
 ul li a{
 display: block;
-color: Black;
+color: 00ff00;
 text-aling: center;
 padding: 14px 16px;
 text-decoration: none;
