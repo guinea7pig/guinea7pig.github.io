@@ -32,10 +32,13 @@ color: Black;
 text-aling: center;
 padding: 14px 16px;
 text-decoration: none;
+position: sticky;
+top:0 ;
 }
 
 ul li {
 float: left;
+border-right: 1px solid #000000
 }
 
 ul li a:hover
