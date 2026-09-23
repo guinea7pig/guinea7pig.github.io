@@ -6,13 +6,13 @@ text-align: center;
 }
 
 footer {
-  backround-color: 171717;
+  backround-color: Black;
   text-align: center;
   padding: 8px;
 }
 
 header {
-background-color: #171717;
+background-color: Black;
 text-align: center;
 padding:10px;
 font-size: 40px;
@@ -28,7 +28,7 @@ background-color: #333333;
 
 ul li a{
 display: block;
-color: 00ff00;
+color: #00ff00;
 text-aling: center;
 padding: 14px 16px;
 text-decoration: none;
