@@ -1,6 +1,6 @@
 body {
 color:#00ff00;
-backround-color:#000000;
+backround-color:#171717;
 
 text-align: center;
 }
@@ -12,7 +12,7 @@ footer {
 }
 
 header {
-background-color: #f1f1f1;
+background-color: #000000;
 text-align: center;
 padding:10px;
 font-size: 40px;
@@ -22,12 +22,16 @@ ul {
 list-style-types: none;
 justify-content: center;
 display: flex;
+overflow: hidden;
+background-color: antiquewhite;
 }
 
 ul li a{
 display: block;
 color: Black;
 text-aling: center;
+padding: 14px 16px;
+text-decoration: none;
 }
 
 ul li {
@@ -36,5 +40,6 @@ float: left;
 
 ul li a:hover
 {
+  background-color: #000000;
 }
 
