@@ -21,7 +21,7 @@ text-shadow: 2px 2px;
 } 
 
 ul {
-list-style-types: none;
+list-style-type: none;
 justify-content: center;
 display: flex;
 overflow: hidden;
