@@ -5,6 +5,7 @@ background-color: Black;
 text-align: center;
 }
 
+
 footer {
   backround-color: Black;
   text-align: center;
@@ -16,6 +17,7 @@ background-color: Black;
 text-align: center;
 padding:10px;
 font-size: 40px;
+text-shadow: 2px 2px;
 } 
 
 ul {
