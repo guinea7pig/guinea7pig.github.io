@@ -9,7 +9,7 @@ text-align: center;
 footer {
   backround-color: Black;
   text-align: center;
-  font-size:20px
+  font-size:20px;
   padding: 8px;
 }
 
@@ -30,8 +30,8 @@ background-color: #333333;
 }
 
 div{
-width: 300px;
 border: 15px red;
+justify-content: center;
 }
 
 ul li a{
@@ -53,4 +53,5 @@ ul li a:hover
 {
   background-color: #000000;
 }
+
 
