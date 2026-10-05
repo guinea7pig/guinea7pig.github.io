@@ -1,11 +1,11 @@
 body {
-color:#00ff00;
-background-color: Black;
-text-align: center;
+  color:#00ff00;
+  background-color: Black;
+  text-align: center;
 }
 
 h1{
-text-shadow: 3px 3px 5px rgb(0, 121, 18);
+  text-shadow: 3px 3px 5px rgb(0, 121, 18);
 }
 
 
@@ -18,45 +18,45 @@ footer {
 }
 
 header {
-background-color: Black;
-text-align: center;
-padding:10px;
-font-size: 40px;
-text-shadow: 3px 3px 5px rgb(0, 121, 18);
+  background-color: Black;
+  text-align: center;
+  padding:10px;
+  font-size: 40px;
+  text-shadow: 3px 3px 5px rgb(0, 121, 18);
 } 
 
 ul {
-list-style-type: none;
-justify-content: center;
-display: flex;
-overflow: hidden;
-background-color: #333333;
-position: sticky;
-top: 0;
+  list-style-type: none;
+  justify-content: center;
+  display: flex;
+  overflow: hidden;
+  background-color: #333333;
+  position: sticky;
+  top: 0;
 }
 /* defualt box */
 div {
-align-items: center;
-background-color: #364332;
-justify-content: center;
-padding: 20px;
-width:500px;
-border-radius: 40px;
-margin: auto;
-box-shadow: 0px 0px 10px #00ffbf;
+  align-items: center;
+  background-color: #364332;
+  justify-content: center;
+  padding: 20px;
+  width:500px;
+  border-radius: 40px;
+  margin: auto;
+  box-shadow: 0px 0px 15px #00ffbf;
 }
 
 ul li a{
-display: block;
-color: #00ff00;
-text-aling: center;
-padding: 14px 16px;
-text-decoration: none;
+  display: block;
+  color: #00ff00;
+  text-aling: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
 ul li {
-float: left;
-border-right: 1px solid #000000
+  float: left;
+  border-right: 1px solid #000000
 }
 
 ul li a:hover
@@ -65,15 +65,15 @@ ul li a:hover
 }
 
 ul li a.active {
-background-color: cornflowerblue;
+  background-color: cornflowerblue;
 }
 
 a:link {
-text-decoration: none;
-color: #0055ff;
+  text-decoration: none;
+  color: #0055ff;
 }
 
 a:hover{
-text-decoration: underline;
-color:#1e00ff;
+  text-decoration: underline;
+  color:#1e00ff;
 }
